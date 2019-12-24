@@ -1,0 +1,34 @@
+html {
+	font-size: 18px;
+	scroll-behavior: smooth;
+}
+
+/* 
+ */
+
+body {
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Nunito Sans', sans-serif;
+	line-height: 1.5;
+}
+
+p {
+	color: #8f8f8f;
+}
+
+/* Sections */
+.colored-sections {
+	background-color: #000;
+	color: #fff;
+}
+
+.white-sections {
+}
+
+/* Container */
+
+/* Navbar */
